@@ -2830,3 +2830,6 @@ body.is-menu-visible #menu {
     height: 300px;
     width: 300px;
   }
+  .outsideflexbox { 
+    display: flex;
+  }

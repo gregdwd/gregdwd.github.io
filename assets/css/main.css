@@ -2825,3 +2825,8 @@ body.is-menu-visible #menu {
     height: 320px;
     width: auto;
   }
+  .softwareflex {
+    border: 1px black solid;
+    height: 300px;
+    width: 300px;
+  }

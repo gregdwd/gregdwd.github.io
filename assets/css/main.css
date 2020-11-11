@@ -2832,5 +2832,10 @@ body.is-menu-visible #menu {
     float: left;
     padding: 0 3px 0 3px;
     margin: 0 3px 3px 3px;
+    text-align: center;
   }
+  .softwareflex ul {
+    list-style-type: none;
+  }
+ 
   
